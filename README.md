@@ -5,5 +5,5 @@ Some features of Markdown:
 
 - __bold text__ with two underscores
 - _italics_ with one underscore
-- **asteriks** also work
+- **asterisks** also work
 - [links](https://home.cern)
